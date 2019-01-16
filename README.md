@@ -3,13 +3,16 @@
 ## Exercise 0.1
 > Use the editor below to write your first C program mimicking the one above, but with a more creative message.
 
-```
-// Paste your program here
-```
+#include <stdio.h>
+int main ()
+{
+  printf ("Did you know?\nGirls who code are the coolest.");
+
+}
 
 ## Exercise 0.2
 > Type up and compile the above program.
-> What is the compiler error reported?
+>error unknown type name because Int is different than int
 
 
 ## Exercise 0.3
